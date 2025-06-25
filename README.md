@@ -1,6 +1,6 @@
 Hi there, I'm Antonio Franco! 👋
 
-About Me
+About me
 
 I am an aspiring computer scientist with a strong interest in AI and a long-term goal of pursuing an involvement in the field. I hold a Bachelor's degree in Computer Science from the University of Algarve and a Master's degree in Data Science and Computational Intelligence from Coventry University. I have 8 months of experience as a full-stack web developer, working on an IoT web software.
 
@@ -19,7 +19,7 @@ Data Science & AI: Data analysis, Machine Learning, Computational Intelligence
 Tools & Platforms: Git, GitHub, Jupyter Notebook, PyCharm, AndroidStudio, IntelliJ, Visual Studio, VS Code
 
 
-Some of My Projects:
+Some of my Projects:
 
 [Bayesian_Network_Analysis_of_Metabolic_Syndrome](https://github.com/tonyamf/Bayesian_Network_Analysis_of_Metabolic_Syndrome)
 
@@ -36,7 +36,7 @@ Description: This project explores Geometric and Appearance approaches with Arti
 Description: This is my personal GitHub, serving as a central hub to showcase my projects, skills, and professional journey. But It is currently under development.
 
 
-How to get in Get in Touch:
+How to get in get in Touch:
 
 •
 LinkedIn: [in/antonio-mpembe-franco](https://www.linkedin.com/in/antonio-mpembe-franco/)

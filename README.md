@@ -45,10 +45,10 @@ Technologies: HTML, CSS, JavaScript
 Get in Touch
 
 •
-LinkedIn: <[in/antonio-mpembe-franco](https://www.linkedin.com/in/antonio-mpembe-franco/)>
+LinkedIn: [in/antonio-mpembe-franco](https://www.linkedin.com/in/antonio-mpembe-franco/)
 
 •
-Email: antoniompembefranco@gmail.com
+Email: (antoniompembefranco@gmail.com)
 
 •
-GitHub Pages: tonyamf.github.io
+GitHub Pages: (tonyamf.github.io)

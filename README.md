@@ -24,8 +24,6 @@ Tools & Platforms: Git, GitHub
 
 Bayesian_Network_Analysis_of_Metabolic_Syndrome
 
-Bayesian_Network_Analysis_of_Metabolic_Syndrome
-
 •
 Description: This project explores the use of Bayesian Networks for analyzing Metabolic Syndrome. It investigates probabilistic relationships between various medical factors associated with the syndrome, utilizing Gaussian, Multinomial, and Hybrid Bayesian Networks. The project also implements different structure learning algorithms (Score-based, Constraint-based, and Hybrid) and evaluates models using scoring functions and k-fold cross-validation. The analysis achieved approximately 91% accuracy in predicting the ATPMetssynd diagnostic variable.
 
@@ -48,7 +46,7 @@ Get in Touch
 LinkedIn: [in/antonio-mpembe-franco](https://www.linkedin.com/in/antonio-mpembe-franco/)
 
 •
-Email: [antoniompembefranco@gmail.com]
+Email: [antoniompembefranco@gmail.com](antoniompembefranco@gmail.com)
 
 •
-GitHub Pages: [tonyamf.github.io]
+GitHub Pages: [tonyamf.github.io](tonyamf.github.io)

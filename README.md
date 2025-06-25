@@ -4,14 +4,10 @@ About Me
 
 I am an aspiring computer scientist with a strong interest in AI and a long-term goal of pursuing a involvement in the field. I hold a Bachelor's degree in Computer Science from the University of Algarve and a Master's degree in Data Science and Computational Intelligence from Coventry University. I have 8 months of experience as a full-stack web developer, working on an IoT web software.
 
-My Skills
-
-My Projects
-
-Get in Touch
+Some of my Skills:
 
 •
-Programming Languages: Python, C#, Java, JavaScript, HTML, CSS, SQL
+Programming Languages: Python, C#, Java, JavaScript, HTML, CSS, SQL, R, PHP
 
 •
 Web Development: Full-stack development, IoT web software
@@ -20,7 +16,10 @@ Web Development: Full-stack development, IoT web software
 Data Science & AI: Data analysis, Machine Learning, Computational Intelligence
 
 •
-Tools & Platforms: Git, GitHub
+Tools & Platforms: Git, GitHub, Jupyter Notebook, PyCharm, AndroidStudio, IntelliJ, Visual Studio, VS Code
+
+
+Some of My Projects:
 
 [Bayesian_Network_Analysis_of_Metabolic_Syndrome](https://github.com/tonyamf/Bayesian_Network_Analysis_of_Metabolic_Syndrome)
 
@@ -33,27 +32,11 @@ Description: This project explores the use of different Bayesian Networks for an
 Description: This project explores Geometric and Appearance approaches with Artificial Neural Network for Discrete Human Emotion Recognition from Static Face Images. It implements two primary approaches for recognizing human emotions from static facial images and aims to recognize discrete human emotions from static face images using Artificial Neural Networks. And found The combination of both approaches, leads to better performance, suggesting that both geometric and appearance features contain valuable information for emotion recognition.
 
 
-
-## Project Overview
-
-This project
-
-The project uses the Fer2013 dataset and implements both a Multi-Layer Perceptron (MLP) for geometric features and a Convolutional Neural Network (CNN) for appearance-based features.
-
 •
-Technologies: Jupyter Notebook, Python, R
+Description: This is my personal GitHub, serving as a central hub to showcase my projects, skills, and professional journey. But It is currently under development.
 
-tonyamf.github.io
 
-tonyamf.github.io
-
-•
-Description: This is my personal GitHub Pages website, serving as a central hub to showcase my projects, skills, and professional journey. It is currently under development.
-
-•
-Technologies: HTML, CSS, JavaScript
-
-Get in Touch
+How to get in Get in Touch
 
 •
 LinkedIn: [in/antonio-mpembe-franco](https://www.linkedin.com/in/antonio-mpembe-franco/)
@@ -63,3 +46,6 @@ Email: [antoniompembefranco@gmail.com](antoniompembefranco@gmail.com)
 
 •
 GitHub Pages: [tonyamf.github.io](tonyamf.github.io)
+
+•
+Instagram: [@teaamf](https://www.instagram.com/teaamf/)

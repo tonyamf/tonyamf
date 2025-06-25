@@ -1,8 +1,8 @@
-Hi there, I'm Tonyamf! 👋
+Hi there, I'm Antonio Franco! 👋
 
 About Me
 
-I am an aspiring computer scientist with a strong interest in AI and a long-term goal of pursuing a PhD in the field. I hold a Bachelor's degree in Computer Science from the University of Algarve and a Master's degree in Data Science and Computational Intelligence from Coventry University. I have 8 months of experience as a full-stack web developer, working on an IoT web software.
+I am an aspiring computer scientist with a strong interest in AI and a long-term goal of pursuing a involvement in the field. I hold a Bachelor's degree in Computer Science from the University of Algarve and a Master's degree in Data Science and Computational Intelligence from Coventry University. I have 8 months of experience as a full-stack web developer, working on an IoT web software.
 
 My Skills
 

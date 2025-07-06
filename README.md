@@ -31,6 +31,11 @@ Description: This project explores the use of different Bayesian Networks for an
 •
 Description: This project explores Geometric and Appearance approaches with Artificial Neural Network for Discrete Human Emotion Recognition from Static Face Images. It implements two primary approaches to extract features for recognizing human emotions from static facial images and aims to recognize discrete human emotions from static face images using Artificial Neural Networks. And found The combination of both approaches, leads to better performance, suggesting that both geometric and appearance features contain valuable information for emotion recognition.
 
+[Thesis Breast Cancer Diagnosis Screening via Deep learning](https://github.com/tonyamf/Thesis_Breast_Cancer_Diagnosis_Screening_via_Deep_learning)
+
+•
+Description: Investigated Meta Pseudo Labels (MPL) for breast cancer CAD. The pipeline failed because the baseline segmentation model could not learn from the extremely limited labeled data. This research demonstrates that MPL's success is contingent on first establishing a functional supervised model, a step that was ultimately hampered by severe data scarcity, providing a critical analysis of the practical limits of advanced semi-supervised techniques.
+
 
 •
 Description: This is my personal GitHub, serving as a central hub to showcase my projects, skills, and professional journey. But It is currently under development.

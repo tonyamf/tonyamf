@@ -34,7 +34,7 @@ Description: This project explores Geometric and Appearance approaches with Arti
 [Thesis Breast Cancer Diagnosis Screening via Deep learning](https://github.com/tonyamf/Thesis_Breast_Cancer_Diagnosis_Screening_via_Deep_learning)
 
 •
-Description: Investigated Meta Pseudo Labels (MPL) for breast cancer CAD. The pipeline failed because the baseline segmentation model could not learn from the extremely limited labeled data. This research demonstrates that MPL's success is contingent on first establishing a functional supervised model, a step that was ultimately hampered by severe data scarcity, providing a critical analysis of the practical limits of advanced semi-supervised techniques.
+Description: Investigated Meta Pseudo Labels for breast cancer CAD. The pipeline failed because the baseline segmentation model could not learn from the extremely limited labeled data. This research demonstrates that it's success is contingent on first establishing a functional supervised model, a step that was ultimately hampered by severe data scarcity, providing a critical analysis of the practical limits of advanced semi-supervised techniques.
 
 
 •
